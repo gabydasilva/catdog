@@ -6,7 +6,7 @@ import numpy as np
 # Configuração da página
 st.title("Classificação de Gatos e Cachorros")
 st.write("Faça upload de uma imagem para classificar como 'Gato' ou 'Cachorro'.")
-colab_link = "[Clique aqui para acessar o notebook de treinamento no Google Colab](https://colab.research.google.com/drive/1nAj95dCoF-V8zxCwb7hX3xgF3yxsqcIM?usp=sharing)"
+colab_link = "[Clique aqui para acessar o notebook de treinamento no Google Colab](https://colab.research.google.com/drive/1KAoQrGweWjZMIXbI3R5qqbacmUTrvvz_?usp=sharing)"
 st.markdown(f"### Treinamento do Modelo: {colab_link}")
 
 
